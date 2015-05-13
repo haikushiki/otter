@@ -1,5 +1,6 @@
 #!python3
 
 print("Otter.")
-print("That's it.")
-print("Nothing else.")
+print("Another otter.")
+print("There.")
+print("Now there's two.")
