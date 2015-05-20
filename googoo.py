@@ -2,8 +2,8 @@
 
 import sys
 from random import randint
-
-x = int(sys.argv[1]) if sys.argv[1].isdigit() else randint(1, 10)
+i = input("Give us a number from 1 to 10 dear: ")
+x = int(i) if i.isdigit() else randint(1, 10)
 
 while (x > 0):
     print("goo")
